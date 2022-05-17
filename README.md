@@ -1,5 +1,5 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Nicolas Castex</h1>
+<h3 align="left">I am a Freelance Web developer but i am always studing I.T at the University.</h3>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
