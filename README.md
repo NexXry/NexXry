@@ -61,6 +61,6 @@
 
 <h2 align="left">Some links</h2>
 
-[My GitLab]: https://gitlab.com/NexXry "My GitLab" Gitlab others repositories"
-[My website]: https://vitrine.nicolas-castex.fr/ "I NEED I.T"
-[linkedin]: https://www.linkedin.com/in/nicolas-castex-b207421b0/ "Nicolas Castex LinkedIn"
+- [My GitLab]: https://gitlab.com/NexXry
+- [My website]: https://vitrine.nicolas-castex.fr/ 
+- [linkedin]: https://www.linkedin.com/in/nicolas-castex-b207421b0/
