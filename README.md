@@ -38,8 +38,6 @@
       </a>
       <br>Tailwind CSS
     </td>
-  </tr>
-  <tr>
     <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="https://ih1.redbubble.net/image.738129642.6518/raf,750x1000,075,t,FFFFFF:97ab1c12de.jpg" width="48" height="48" alt="Linux" />
