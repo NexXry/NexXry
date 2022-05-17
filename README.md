@@ -1,16 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Nicolas Castex</h1>
 <h3 align="left">I am a Freelance Web developer but i am always studing I.T at the University.</h3>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
-
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-
 <br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
