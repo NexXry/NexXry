@@ -10,7 +10,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://pngimage.net/wp-content/uploads/2018/06/symfony-logo-png-3.png" width="48" height="48" alt="Symfony" />
+        <img src="https://symfony.com/logos/symfony_white_03.png" width="48" height="48" alt="Symfony" />
       </a>
       <br>Symfony
     </td>
