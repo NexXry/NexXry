@@ -59,10 +59,3 @@
   </tr>
 </table>
 
-<h2 align="left">Some links</h2>
-
- <ul>
-  <li>[My GitLab]: https://gitlab.com/NexXry</li>
-  <li>[My website]: https://vitrine.nicolas-castex.fr/</li>
-  <li>[linkedin]: https://www.linkedin.com/in/nicolas-castex-b207421b0/</li>
-</ul>
