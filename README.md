@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Nicolas Castex</h1>
-<h3 align="left">I am a Freelance Web developer && Student of MIAGE licence at Université de bordeaux from France.</h3>
+<h3 align="left">I am a Freelance Web developer && M2 Student of MIAGE licence at Université de bordeaux from France.</h3>
 
 <br>
 
